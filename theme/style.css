@@ -16,3 +16,34 @@
 }
 
 /* style your grid sections here!  */
+
+#joe {
+  /* background-image: repeating-linear-gradient(Bisque, MistyRose  30%, AntiqueWhite 20%); */
+  background-image: url(https://i.imgur.com/ZnCvaDN.jpg) ;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#joe h1 {
+  color: gainsboro;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+img {
+  float: left;
+  max-width: 470px;
+}
+
+#joe p {
+  background: linear-gradient(NavajoWhite, LavenderBlush);
+  color: Sienna;
+
+}
+
+#joe ul {
+  background-color: moccasin;
+  background-position: left;
+}
